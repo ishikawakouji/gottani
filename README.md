@@ -1,6 +1,6 @@
 # gottani
 
-A new Flutter project.
+flutterの練習として、始めたものです
 
 ## Getting Started
 
